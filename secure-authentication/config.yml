@@ -1,0 +1,9 @@
+credentials:
+  names: ['John Smith', 'Jack Black']
+  usernames: ['jsmith', 'jblack']
+#  passwords: ['smith', 'black']  # To be replaced with hashed passwords
+  passwords: ['$2b$12$hOSwTcPqKFj/dlCgQpw0D.Vav5CWjjS8pDX8FzcC20YcYdBGBFvOC', '$2b$12$2mic2YU9ID15.z3CV0A15eCPl9w3Ox3H6QKrwystiQoETGofnPpXm']  # To be replaced with hashed passwords
+cookie:
+  name: 'some_cookie_name'
+  key: 'some_signature_key'
+  expiry_days: 30
