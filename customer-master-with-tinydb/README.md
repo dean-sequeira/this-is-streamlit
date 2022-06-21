@@ -1,4 +1,4 @@
-# Customer Master with tinyDB
+# Customer Master with TinyDB
 
 Save and view customer details (customer id, name, address and tax number) with Streamlit and TinyDB  
 
